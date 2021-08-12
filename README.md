@@ -1,5 +1,7 @@
 # React Recipe App
 
+<a href="https://pvt-react-recipe-app.vercel.app/">Live Demo</a>
+
 A simple react app to search recipes.
 I used <a href="https://developer.edamam.com/edamam-recipe-api">Edamam Recipe Search API</a> to fetch search results of recipes.
 
