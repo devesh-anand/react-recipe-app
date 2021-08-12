@@ -15,3 +15,7 @@ It's free to sign up, and if you want to run the app, here are the steps:
 3. Put your API ID and key in the variables `APP_ID` and `APP_KEY` respectively.
 4. Save and run script `npm start`.
 5. Search recipe of your choice and get your hands dirty in the kitchen.
+
+<hr>
+
+Special thanks to <a href="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q">Dev Ed's youtube channel</a>. I made this project with the help of one of his videos on react.
