@@ -1,9 +1,9 @@
 # React Recipe App
 
-<a href="https://pvt-react-recipe-app.vercel.app/">Live Demo</a>
+<a href="https://pvt-react-recipe-app.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo</a>
 
 A simple react app to search recipes.
-I used <a href="https://developer.edamam.com/edamam-recipe-api">Edamam Recipe Search API</a> to fetch search results of recipes.
+I used <a href="https://developer.edamam.com/edamam-recipe-api" target="_blank" rel="noopener noreferrer">Edamam Recipe Search API</a> to fetch search results of recipes.
 
 To successfully run the app you'll need API ID and key.<br>
 The link to the live app uses my personal keys that I haven't put in this public repo for obvious reasons.
