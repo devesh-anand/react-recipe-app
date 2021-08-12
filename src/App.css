@@ -1,6 +1,7 @@
 .App {
   min-height: 100vh;
-  background: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);;
+  background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+  background-blend-mode: multiply,multiply;
 }
 
 .search-form {
@@ -16,6 +17,7 @@
   border-radius: 4px;
   padding: 8px;
   margin-right: 8px;
+  box-shadow: 1px 1px 5px 1px black;
 }
 
 .search-button {
@@ -25,7 +27,6 @@
 
 .recipess {
   display: flex;
-  /* justify-content: center; */
   align-items: center;
   flex-direction: column;
   flex-wrap: wrap;
